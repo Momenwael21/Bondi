@@ -51,6 +51,7 @@ nav {
   background-color: transparent;
   position: relative;
   top: 0;
+  background-color: var(--dark-blue);
 }
 
 nav .container ul li a,
